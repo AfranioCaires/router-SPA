@@ -48,5 +48,6 @@ document.querySelectorAll('a').forEach((link) => {
   link.addEventListener('click', (event) => {
     router.route(event);
   });
-});```
+});
+```
 
